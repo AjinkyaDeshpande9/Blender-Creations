@@ -12,3 +12,8 @@
 <p align="center">
   <img width="750" src="https://github.com/AjinkyaDeshpande9/Blender-Creations/blob/main/Sci-Fi%20Art/Sea%20Monster/Sea%20Monster.jpg">
 </p>
+
+<h1 align="center">Plasma Ball</h1>
+<p align="center">
+  <img width="750" src="https://github.com/AjinkyaDeshpande9/Blender-Creations/blob/main/Sci-Fi%20Art/Plasma%20Ball/Plasma%20Ball%20Simple%20Star.jpg">
+</p>
