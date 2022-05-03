@@ -17,3 +17,8 @@
 <p align="center">
   <img width="750" src="https://github.com/AjinkyaDeshpande9/Blender-Creations/blob/main/Sci-Fi%20Art/Plasma%20Ball/Plasma%20Ball%20Simple%20Star.jpg">
 </p>
+
+<h1 align="center">Black Hole</h1>
+<p align="center">
+  <img width="750" src="https://github.com/AjinkyaDeshpande9/Blender-Creations/blob/main/Sci-Fi%20Art/Black%20Hole/Black%20Hole.jpg">
+</p>
